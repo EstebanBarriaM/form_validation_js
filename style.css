@@ -1,0 +1,4 @@
+.form-control.error input{
+    border: 0.1px solid;
+    border-color: #fe3a3a;
+}
